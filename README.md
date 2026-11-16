@@ -173,6 +173,10 @@ Read `docs/limitations.md`. In short:
 * Only the first `MAX_CITATIONS` citations per run (default 200) are
   fully verified.
 
+## Acknowledgements
+
+This project is the capstone submission for the **Multi-agent systems: build an AI research team** course on [Homingo Learn](https://learn.homingo.co.in/courses/multi-agent-research-team).
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
